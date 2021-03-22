@@ -1,0 +1,3 @@
+This is the master file
+
+Added line in feature1
