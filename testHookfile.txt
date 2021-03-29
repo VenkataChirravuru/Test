@@ -1,3 +1,2 @@
-This is a test line
 This is second line
 This is third line
