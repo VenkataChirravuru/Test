@@ -4,4 +4,4 @@ while read LINE
 do
 echo "$LINE" >> /tmp/newFile.txt
 done < $FILE
-
+#This is an example#
