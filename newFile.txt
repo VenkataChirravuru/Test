@@ -1,1 +1,1 @@
-is is second line after stashing
+This is second line after stashing
